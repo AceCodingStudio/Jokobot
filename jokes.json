@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "type": "general",
+        "setup": "How can python speak?",
+        "punchline": "By Pyttsx3"
+    },
+    {
+        "id": 2,
+        "type": "general",
+        "setup": "Why can't a bicycle stand?",
+        "punchline": "because it is two tired"
+    },
+    {
+        "id": 3,
+        "type": "general",
+        "setup": "How many lips does a flower have?",
+        "punchline": "Tulips"
+    },
+    {
+        "id": 4,
+        "type": "general",
+        "setup": "What kind of shoes does a thief wear?",
+        "punchline": "Sneakers"
+    },
+    {
+        "id": 5,
+        "type": "general",
+        "setup": "What do you call a laughing motorcycle?",
+        "punchline": "A Yamahahahaha."
+    },
+    {
+        "id": 6,
+        "type": "general",
+        "setup": "How many programmers does it take to change a lightbulb?",
+        "punchline": "None that's a hardware problem"
+    },
+    {
+        "id": 7,
+        "type": "general",
+        "setup": "What is the functional unit of a clock?",
+        "punchline": "Cells"
+    },
+    {
+        "id": 8,
+        "type": "programming",
+        "setup": "Why did computer reach late at office?",
+        "punchline": "Because he had a hard drive"
+    },
+    {
+        "id": 9,
+        "type": "hardware",
+        "setup": "Why did the the current stop?",
+        "punchline": "Because a paper came in his way"
+    },
+    {
+        "id": 10,
+        "type": "general",
+        "setup": "Why was Pomeranian dog not allowed to drive?",
+        "punchline": "because his legs were too small to get to the accelerator"
+    },
+    {
+        "id": 11,
+        "type": "general",
+        "setup": "What kind of a voice does a yamaha piano make after hearing some of the memes told by meme bot?",
+        "punchline": "Yamahahahahahahahaha"
+    },
+    {
+        "id": 12,
+        "type": "programming",
+        "setup": "Why was the machine favourite student of the teacher?",
+        "punchline": "because he learned from it's own mistakes and always trained to become better"
+    },
+    {
+        "id": 13,
+        "type": "programming",
+        "setup": "Vision(Avenger) started  programming and made a thing that brought a revolution in lives of programmers.Name the thing",
+        "punchline": "Computer Vision"
+    },
+    {
+        "id": "",
+        "type": "",
+        "setup": "",
+        "punchline": ""
+    }
+]
